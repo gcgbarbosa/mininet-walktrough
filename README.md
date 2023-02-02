@@ -11,3 +11,4 @@ In this walktrough we replicate the following topology:
 see also: http://mininet.org/walkthrough/
 
 arch install for mininet: https://aur.archlinux.org/packages/mininet
+you also need openvswitch: https://archlinux.org/packages/?name=openvswitch
